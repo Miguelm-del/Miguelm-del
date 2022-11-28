@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning Vue.js and Go
-- 💬 Ask me about **JavaScript, HTML5, CSS3, Vue.js**
+- 💬 Ask me about **JavaScript, HTML5, CSS3, Vue.js, Go**
 
 
 <br><br>
