@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning Vue.js and Go
+- 🌱 I’m currently learning Go and Vue.js 
 - 💬 Ask me about **JavaScript, HTML5, CSS3, Vue.js, Go**
 
 
