@@ -3,8 +3,8 @@
 
 
 
-- 🌱 I’m currently learning Go and Vue.js 
-- 💬 Ask me about **JavaScript, HTML5, CSS3, Vue.js, Go**
+- 🌱 I’m currently learning Go, Python and Vue.js 
+- 💬 Ask me about **JavaScript, HTML5, CSS3, Vue.js, Go, Python**
 
 
 <br><br>
