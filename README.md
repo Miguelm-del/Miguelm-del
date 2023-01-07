@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning Go, Python and Vue.js 
-- 💬 Ask me about **JavaScript, HTML5, CSS3, Vue.js, Go, Python**
+- 💬 Ask me about **Go, Python, JavaScript, HTML5, CSS3, Vue.js**
 
 
 <br><br>
@@ -22,18 +22,15 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
-
-
 <br><br>
-
+<!--
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Miguelm-del&show_icons=true&theme=tokyonight" alt="miguelmarcio's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelm-del&layout=compact&theme=tokyonight" alt="miguelmarcio's most languages"/>
 </p>
-
+-->
 ## Contact
 
 <a href="https://www.linkedin.com/in/miguel-marcio/" target="_blank">
