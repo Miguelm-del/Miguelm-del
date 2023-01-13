@@ -29,6 +29,10 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelm-del&layout=compact&theme=tokyonight" alt="miguelmarcio's most languages"/>
 </p>
 -->
+<!--   GitHub stats graph -->
+## 📈 GitHub Activity Graph:
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Miguelm-del&theme=github-compact)](https://github.com/Miguelm-del/github-readme-activity-graph)
+
 ## Contact
 
 <a href="https://www.linkedin.com/in/miguel-marcio/" target="_blank">
