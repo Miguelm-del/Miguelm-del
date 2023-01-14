@@ -2,10 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Miguelm-del&style=flat-square&color=blueviolet" alt="Profile views" /> </p>
 
 
-
 - 🌱 I’m currently learning Go, Python and Vue.js 
 - 💬 Ask me about **Go, Python, JavaScript, HTML5, CSS3, Vue.js**
-
 
 <br><br>
 
@@ -17,10 +15,13 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<br><br>
+<div align="left">
+  <h2>Actively Learning</h2>
+  <img src="https://skillicons.dev/icons?i=python,go,postgres,html,css,js,vuejs" alt="skills actively learning logos"> <br> 
+</div>
+
+<br><br/>
 <!--
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -31,7 +32,8 @@
 -->
 <!--   GitHub stats graph -->
 ## 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Miguelm-del&theme=github-compact)](https://github.com/Miguelm-del/github-readme-activity-graph)
+[![Miguelm-del's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Miguelm-del&theme=github-compact)](https://github.com/Miguelm-del/github-readme-activity-graph)
+
 
 ## Contact
 
