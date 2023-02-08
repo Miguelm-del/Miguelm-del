@@ -22,14 +22,13 @@
 </div>
 
 <br><br/>
-<!--
-## ⚙️ &nbsp;GitHub Analytics
 
+## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Miguelm-del&show_icons=true&theme=tokyonight" alt="miguelmarcio's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelm-del&layout=compact&theme=tokyonight" alt="miguelmarcio's most languages"/>
+<img width="380em" src="https://github-readme-stats.vercel.app/api?username=Miguelm-del&show_icons=true&theme=tokyonight&layout=compact" alt="miguelmarcio's stats"/>
+<img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelm-del&layout=compact&theme=tokyonight" alt="miguelmarcio's most languages"/>
 </p>
--->
+
 <!--   GitHub stats graph -->
 ## 📈 GitHub Activity Graph:
 ![Miguelm-del's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Miguelm-del&theme=github-compact)
