@@ -25,8 +25,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="380em" src="https://github-readme-stats.vercel.app/api?username=Miguelm-del&show_icons=true&theme=tokyonight&layout=compact" alt="miguelmarcio's stats"/>
 <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelm-del&layout=compact&theme=tokyonight" alt="miguelmarcio's most languages"/>
+ <img width="380em" src="https://github-readme-stats.vercel.app/api?username=Miguelm-del&show_icons=true&theme=tokyonight" alt="miguelmarcio's stats"/>
 </p>
 
 <!--   GitHub stats graph -->
