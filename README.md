@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning Go, Python and Vue.js 
-- 💬 Ask me about **Go, Python, JavaScript, HTML5, CSS3, Vue.js**
+- 💬 Ask me about **Go, Python, JavaScript, HTML5, CSS3, Vue.js and Quasar Framework**
 
 <br><br>
 
