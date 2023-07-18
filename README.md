@@ -14,10 +14,13 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+
+
 
 <div align="left">
   <h2>Actively Learning</h2>
-  <img src="https://skillicons.dev/icons?i=go,postgres,html,css,js,vuejs" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=go,postgres,html,css,js,vuejs,firebase" alt="skills actively learning logos"> <br> 
 </div>
 
 <br><br/>
