@@ -32,8 +32,8 @@
 </p>
 
 <!--   GitHub stats graph -->
-## 📈 GitHub Activity Graph:
-![Miguelm-del's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Miguelm-del&theme=github-compact)
+<!-- ## 📈 GitHub Activity Graph: -->
+<!--![Miguelm-del's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Miguelm-del&theme=github-compact) -->
 
 
 ## Contact
