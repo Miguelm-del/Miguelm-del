@@ -34,11 +34,3 @@
 <!--   GitHub stats graph -->
 <!-- ## 📈 GitHub Activity Graph: -->
 <!--![Miguelm-del's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Miguelm-del&theme=github-compact) -->
-
-
-## Contact
-
-<a href="https://www.linkedin.com/in/miguel-marcio/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-miguelmarcio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-
