@@ -1,11 +1,10 @@
 <h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Miguel Márcio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Miguelm-del&style=flat-square&color=blueviolet" alt="Profile views" /> </p>
 
-
 - 🌱 I’m currently learning Go and Vue.js 
 - 💬 Ask me about **Go, JavaScript, HTML5, CSS3, Vue.js and Quasar Framework**
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
