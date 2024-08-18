@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Miguelm-del&style=flat-square&color=blueviolet" alt="Profile views" /> </p>
 
 - 🌱 I’m currently learning Go and Vue.js 
-- 💬 Ask me about **Go, JavaScript, HTML5, CSS3, Vue.js and Quasar Framework**
+- 💬 Ask me about **Go, JavaScript, TypeScript, Vue.js and Quasar Framework**
 
 <br>
 
