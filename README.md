@@ -20,7 +20,7 @@
 
 <div align="left">
   <h2>Actively Learning</h2>
-  <img src="https://skillicons.dev/icons?i=go,postgres,firebase,html,css,js,vuejs" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=go,vuejs,postgres,firebase,html,css,js" alt="skills actively learning logos"> <br> 
 </div>
 
 <br><br/>
